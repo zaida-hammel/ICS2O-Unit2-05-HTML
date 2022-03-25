@@ -1,3 +1,19 @@
+/* Created by: Zaida Hammel
+* Created on: March 2022
+* This file contains the CSS for index.html
+*/
+
 .mdl-layout__content {
-    padding: 15px;
+  padding-left: 10pt;
+  padding-right: 10pt;
+  padding-top: 10pt;
+}
+
+.mdl-layout-title {
+  font-family: "Times New Roman", serif;
+}
+
+p {
+  font-family: "Times New Roman", serif;
+  font-size: 1.2rem;
 }
